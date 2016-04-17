@@ -1,2 +1,6 @@
 # qmf-docker
-Dockerfile for Quora's qmf library
+Dockerfile for Quora's qmf library. 
+
+Installs dependencies, builds source, and runs tests.
+
+I'm sure it can be optimized, but it works!
